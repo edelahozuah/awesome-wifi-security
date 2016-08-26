@@ -47,6 +47,8 @@ A collection of awesome resources related to 802.11 security, tools and other th
 
 * [https://hashcrack.org/] (https://hashcrack.org/)
 
+* [Database of vulnerable Wi-Fi Networks] (https://router-db.com/)
+
 ### Attacks
 ####KARMA
 
@@ -78,6 +80,12 @@ A collection of awesome resources related to 802.11 security, tools and other th
 (http://conferences.sigcomm.org/imc/2013/papers/imc148-barberaSP106.pdf)
 
 [I know who you will meet this evening! Linking wireless devices using Wi-Fi probe requests (2012) ] (http://www.nicta.com.au/publications/research-publications/?pid=5583)
+
+[Is Your Android Device Telling the World Where You've Been? (2014)] (http://goo.gl/3XezqR) 
+
+[How talkative is your mobile device?: an experimental study of Wi-Fi probe requests (2015)]
+* [Paper] (https://frdgr.ch/wp-content/uploads/2015/06/Freudiger15.pdf)
+* [Slides] (https://frdgr.ch/wp-content/uploads/2015/06/Freudiger.Wisec_.pptx)
 
 [Why MAC Address Randomization is not Enough: An Analysis of Wi-Fi Network Discovery Mechanisms
 (2016)] (http://papers.mathyvanhoef.com/asiaccs2016.pdf)
