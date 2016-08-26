@@ -36,6 +36,7 @@ A collection of awesome resources related to 802.11 security, tools and other th
 ### Privacy
 ###Papers
 [Tracking unmodified smartphones using Wi-Fi monitors (2012)](https://www.cs.uic.edu/pub/Bits/Musa/musa-eriksson-sensys12.pdf)
+[Show me your SSIDs; I will show who you are] (https://blog.rootshell.be/2012/01/12/show-me-your-ssids-ill-tell-who-you-are/)
 
 [Signals from the Crowd: Uncovering Social Relationships through Smartphone Probe (2013, SIGCOM)]
 (http://conferences.sigcomm.org/imc/2013/papers/imc148-barberaSP106.pdf)
