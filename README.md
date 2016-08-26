@@ -34,6 +34,11 @@ A collection of awesome resources related to 802.11 security, tools and other th
 
 [Evil Twin vulnerabilities in Wi-Fi networks (Master Thesis, 2016)] (http://www.cs.ru.nl/bachelorscripties/2016/Matthias_Ghering___4395727___Evil_Twin_Vulnerabilities_in_Wi-Fi_Networks.pdf)
 
+###Wireless Routers 
+
+[Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers (WOOT, 2015)](https://www.usenix.org/system/files/conference/woot15/woot15-paper-lorente.pdf)
+
+
 
 ### Privacy
 ###Papers
