@@ -23,7 +23,25 @@ A collection of awesome resources related to 802.11 security, tools and other th
 
 * [https://hashcrack.org/] (https://hashcrack.org/)
 
-### 
+### Privacy
+###Papers
+[Tracking unmodified smartphones using Wi-Fi monitors (2012)](https://www.cs.uic.edu/pub/Bits/Musa/musa-eriksson-sensys12.pdf)
+
+[Signals from the Crowd: Uncovering Social Relationships through Smartphone Probe (2013, SIGCOM)]
+(http://conferences.sigcomm.org/imc/2013/papers/imc148-barberaSP106.pdf)
+
+[Why MAC Address Randomization is not Enough: An Analysis of Wi-Fi Network Discovery Mechanisms
+(2016)] (http://papers.mathyvanhoef.com/asiaccs2016.pdf)
+
+
+
+
+
+
+
+
+
+
 
 
 
