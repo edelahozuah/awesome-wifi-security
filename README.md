@@ -23,11 +23,13 @@ A collection of awesome resources related to 802.11 security, tools and other th
 
 * [https://hashcrack.org/] (https://hashcrack.org/)
 
-###KARMA
+### Attacks
+####KARMA
+
 [Instant KARMA might still gets you (2015)] (https://insights.sei.cmu.edu/cert/2015/08/instant-karma-might-still-get-you.html)
 
-###Evil Twin
-#### Documentation
+####Evil Twin
+
 [Infernal twin] (https://n0where.net/automated-evil-twin-attack/)
 
 [Evil Twin vulnerabilities in Wi-Fi networks (Master Thesis, 2016)] (http://www.cs.ru.nl/bachelorscripties/2016/Matthias_Ghering___4395727___Evil_Twin_Vulnerabilities_in_Wi-Fi_Networks.pdf)
