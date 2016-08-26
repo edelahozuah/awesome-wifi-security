@@ -52,6 +52,8 @@ A collection of awesome resources related to 802.11 security, tools and other th
 
 [Attacking automatic Wireless network selection (2005)] (https://www.trailofbits.com/resources/attacking_automatic_network_selection_paper.pdf)
 
+[Why do Wi-Fi Clientes disclose their PNL for Free Still Today? (2015)] (http://blog.dinosec.com/2015/02/why-do-wi-fi-clients-disclose-their-pnl.html)
+
 [Instant KARMA might still gets you (2015)] (https://insights.sei.cmu.edu/cert/2015/08/instant-karma-might-still-get-you.html)
 
 ####Evil Twin
