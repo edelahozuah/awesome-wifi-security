@@ -2,9 +2,28 @@
 A collection of awesome resources related to 802.11 security, tools and other things 
 
 ## Table of Contents
+###TKIP Security
+Practical attacks against WEP and WPA. Cryptology ePrint Archive Report 472, 79-86 (2008)
+
+An Improved Attack on TKIP  
+
+Enhanced TKIP Michael Attacks
+
+Plaintext Recovery Attacks Against WPA/TKIP.(2013)
+
+Practical verification of WPA-TKIP vulnerabilities. In: Chen, K., Xie, Q., Qiu, W., Li, N., Tzeng, W.G. (eds.) ASIACCS, pp. 427–436. ACM
+
+On the security of RC4 in TLS, Proceedings of the 22nd USENIX conference on Security, 2013.
+
+A Security Analysis of the WPA-TKIP and TLS Security Protocols, PhD Thesis, KU Leuven, 2016
+
 ###WiFi Protected Setup (WPS)
 ####Papers
 [Brute forcing Wi-Fi Protected Setup (2011)] (https://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf)
+
+[An Investigation into the Wi-Fi Protected Setup PIN of the Linksys WRT160N v2](http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1139&context=ism)
+
+
 
 [Offline bruteforce attack on wifi protected setup (2014)] (http://archive.hack.lu/2014/Hacklu2014_offline_bruteforce_attack_on_wps.pdf)
 
@@ -49,7 +68,7 @@ A collection of awesome resources related to 802.11 security, tools and other th
 [Signals from the Crowd: Uncovering Social Relationships through Smartphone Probe (2013, SIGCOM)]
 (http://conferences.sigcomm.org/imc/2013/papers/imc148-barberaSP106.pdf)
 
-[I know who you will meet this evening! Linking wireless devices using Wi-Fi probe requests] (http://www.nicta.com.au/publications/research-publications/?pid=5583)
+[I know who you will meet this evening! Linking wireless devices using Wi-Fi probe requests (2012) ] (http://www.nicta.com.au/publications/research-publications/?pid=5583)
 
 [Why MAC Address Randomization is not Enough: An Analysis of Wi-Fi Network Discovery Mechanisms
 (2016)] (http://papers.mathyvanhoef.com/asiaccs2016.pdf)
