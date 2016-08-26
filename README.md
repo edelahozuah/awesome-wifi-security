@@ -3,7 +3,10 @@ A collection of awesome resources related to 802.11 security, tools and other th
 
 ## Table of Contents
 
-###[Online Cracking Services] 
+###Online Cracking Services 
+http://wpa.darkircop.org/
+https://www.gpuhash.me/
+https://hashcrack.org/
 
 
 
