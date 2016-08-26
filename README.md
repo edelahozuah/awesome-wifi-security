@@ -24,7 +24,7 @@ A collection of awesome resources related to 802.11 security, tools and other th
 * [https://hashcrack.org/] (https://hashcrack.org/)
 
 ###KARMA
-[Instant KARMA might still gets you (2015)] https://insights.sei.cmu.edu/cert/2015/08/instant-karma-might-still-get-you.html
+[Instant KARMA might still gets you (2015)] (https://insights.sei.cmu.edu/cert/2015/08/instant-karma-might-still-get-you.html)
 
 ###Evil Twin
 #### Documentation
