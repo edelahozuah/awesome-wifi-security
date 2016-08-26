@@ -11,11 +11,11 @@ Enhanced TKIP Michael Attacks
 
 Plaintext Recovery Attacks Against WPA/TKIP.(2013)
 
-Practical verification of WPA-TKIP vulnerabilities. In: Chen, K., Xie, Q., Qiu, W., Li, N., Tzeng, W.G. (eds.) ASIACCS, pp. 427–436. ACM
+[Practical verification of WPA-TKIP vulnerabilities](http://dl.aircrack-ng.org/breakingwepandwpa.pdf)
 
-On the security of RC4 in TLS, Proceedings of the 22nd USENIX conference on Security, 2013.
+[On the security of RC4 in TLS (USENIX, 2013)] (http://www.isg.rhul.ac.uk/tls/RC4biases.pdf)
 
-A Security Analysis of the WPA-TKIP and TLS Security Protocols, PhD Thesis, KU Leuven, 2016
+[A Security Analysis of the WPA-TKIP and TLS Security Protocols (PhD Thesis, 2016)] (https://lirias.kuleuven.be/bitstream/123456789/543228/1/thesis.pdf)
 
 ###WiFi Protected Setup (WPS)
 ####Papers
