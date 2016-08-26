@@ -3,17 +3,19 @@ A collection of awesome resources related to 802.11 security, tools and other th
 
 ## Table of Contents
 ###TKIP Security
-Practical attacks against WEP and WPA. Cryptology ePrint Archive Report 472, 79-86 (2008)
+[Practical attacks against WEP and WPA (2008)] (http://dl.aircrack-ng.org/breakingwepandwpa.pdf)
 
-An Improved Attack on TKIP  
+[An Improved Attack on TKIP  ] (http://link.springer.com/chapter/10.1007/978-3-642-04766-4_9#page-1)
 
-Enhanced TKIP Michael Attacks
+[Enhanced TKIP Michael Attacks (2010)] (http://download.aircrack-ng.org/wiki-files/doc/enhanced_tkip_michael.pdf)
 
-Plaintext Recovery Attacks Against WPA/TKIP.(2013)
+[Plaintext Recovery Attacks Against WPA/TKIP (2013)] (https://eprint.iacr.org/2013/748.pdf)
 
-[Practical verification of WPA-TKIP vulnerabilities](http://dl.aircrack-ng.org/breakingwepandwpa.pdf)
+[Practical verification of WPA-TKIP vulnerabilities (2013)](https://lirias.kuleuven.be/bitstream/123456789/401042/1/wpatkip.pdf)
 
 [On the security of RC4 in TLS (USENIX, 2013)] (http://www.isg.rhul.ac.uk/tls/RC4biases.pdf)
+
+[All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS (USENIX, 2015)] (https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-vanhoef.pdf)
 
 [A Security Analysis of the WPA-TKIP and TLS Security Protocols (PhD Thesis, 2016)] (https://lirias.kuleuven.be/bitstream/123456789/543228/1/thesis.pdf)
 
