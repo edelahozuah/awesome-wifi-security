@@ -5,7 +5,7 @@ A collection of awesome resources related to 802.11 security, tools and other th
 ###TKIP Security
 [Practical attacks against WEP and WPA (2008)] (http://dl.aircrack-ng.org/breakingwepandwpa.pdf)
 
-[An Improved Attack on TKIP  ] (http://link.springer.com/chapter/10.1007/978-3-642-04766-4_9#page-1)
+[An Improved Attack on TKIP (2009)  ] (http://link.springer.com/chapter/10.1007/978-3-642-04766-4_9#page-1)
 
 [Enhanced TKIP Michael Attacks (2010)] (http://download.aircrack-ng.org/wiki-files/doc/enhanced_tkip_michael.pdf)
 
