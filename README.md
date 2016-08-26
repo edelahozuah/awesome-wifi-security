@@ -7,6 +7,9 @@ A collection of awesome resources related to 802.11 security, tools and other th
 
 [An Improved Attack on TKIP (2009)  ] (http://link.springer.com/chapter/10.1007/978-3-642-04766-4_9#page-1)
 
+[Cryptanalysis of IEEE 802.11i TKIP] (http://download.aircrack-ng.org/wiki-files/doc/tkip_master.pdf)
+
+
 [Enhanced TKIP Michael Attacks (2010)] (http://download.aircrack-ng.org/wiki-files/doc/enhanced_tkip_michael.pdf)
 
 [Plaintext Recovery Attacks Against WPA/TKIP (2013)] (https://eprint.iacr.org/2013/748.pdf)
