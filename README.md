@@ -83,7 +83,7 @@ A collection of awesome resources related to 802.11 security, tools and other th
 
 [Is Your Android Device Telling the World Where You've Been? (2014)] (http://goo.gl/3XezqR) 
 
-[How talkative is your mobile device?: an experimental study of Wi-Fi probe requests (2015)]
+How talkative is your mobile device?: an experimental study of Wi-Fi probe requests (2015)
 * [Paper] (https://frdgr.ch/wp-content/uploads/2015/06/Freudiger15.pdf)
 * [Slides] (https://frdgr.ch/wp-content/uploads/2015/06/Freudiger.Wisec_.pptx)
 
