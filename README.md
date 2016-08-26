@@ -26,11 +26,11 @@ A collection of awesome resources related to 802.11 security, tools and other th
 ####Papers
 [Brute forcing Wi-Fi Protected Setup (2011)] (https://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf)
 
-[An Investigation into the Wi-Fi Protected Setup PIN of the Linksys WRT160N v2](http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1139&context=ism)
+[An Investigation into the Wi-Fi Protected Setup PIN of the Linksys WRT160N v2 (2012)](http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1139&context=ism)
 
 
 
-[Offline bruteforce attack on wifi protected setup (2014)] (http://archive.hack.lu/2014/Hacklu2014_offline_bruteforce_attack_on_wps.pdf)
+[Offline bruteforce attack on wifi protected setup (*Pixie dust attack*, 2014)] (http://archive.hack.lu/2014/Hacklu2014_offline_bruteforce_attack_on_wps.pdf)
 
 ####Tools
 [Pixiewps] (https://github.com/wiire/pixiewps): An offline WPS bruteforce utility
