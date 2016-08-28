@@ -42,6 +42,7 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 
 ###Online Cracking Services for PSK
 
+* [Crackq] (https://hashcrack.org/crackq): online distributed GPU-accelerated password cracker designed to help penetration testers and network auditors identify weak passwords
 * [http://www.onlinehashcrack.com/] (http://www.onlinehashcrack.com/)
 * [http://wpa.darkircop.org/](http://wpa.darkircop.org/)
 
@@ -49,7 +50,7 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 
 * [https://hashcrack.org/] (https://hashcrack.org/)
 
-* [Database of vulnerable Wi-Fi Networks] (https://router-db.com/)
+* [Database of vulnerable Wi-Fi Network: router-db.com] (https://router-db.com/)
 
 ### Attacks
 ####KARMA
@@ -70,7 +71,11 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 
 [Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers (WOOT, 2015)](https://www.usenix.org/system/files/conference/woot15/woot15-paper-lorente.pdf)
 
-
+###Rogue AP 
+[Manna from heaven: Impoving the state of rogue AP attacks (2015)] (https://www.sensepost.com/blog/2015/improvements-in-rogue-ap-attacks-mana-1-2/): 
+* [Video] (https://www.youtube.com/watch?v=i2-jReLBSVk)
+* [Slides] (https://defcon.org/images/defcon-22/dc-22-presentations/White-deVilliers/DEFCON-22-Dominic-White-Ian-de-Villiers-Manna-from-Heaven-Detailed-UPDATED.pdf)
+[hostapd-mana](https://github.com/sensepost/hostapd-mana): hostapd with the attacks described in Defcon 22, and with the ability to rogue EAP access points.
 
 ### Privacy
 ####Papers
