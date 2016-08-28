@@ -72,9 +72,11 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 [Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers (WOOT, 2015)](https://www.usenix.org/system/files/conference/woot15/woot15-paper-lorente.pdf)
 
 ###Rogue AP 
-[Manna from heaven: Impoving the state of rogue AP attacks (2015)] (https://www.sensepost.com/blog/2015/improvements-in-rogue-ap-attacks-mana-1-2/): 
+###Documentation
+[Manna from heaven: Improving the state of rogue AP attacks (2015)] (https://www.sensepost.com/blog/2015/improvements-in-rogue-ap-attacks-mana-1-2/): 
 * [Video] (https://www.youtube.com/watch?v=i2-jReLBSVk)
 * [Slides] (https://defcon.org/images/defcon-22/dc-22-presentations/White-deVilliers/DEFCON-22-Dominic-White-Ian-de-Villiers-Manna-from-Heaven-Detailed-UPDATED.pdf)
+###Tools
 [hostapd-mana](https://github.com/sensepost/hostapd-mana): hostapd with the attacks described in Defcon 22, and with the ability to rogue EAP access points.
 
 ### Privacy
