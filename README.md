@@ -28,8 +28,6 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 
 [An Investigation into the Wi-Fi Protected Setup PIN of the Linksys WRT160N v2 (2012)](http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1139&context=ism)
 
-
-
 [Offline bruteforce attack on wifi protected setup (*Pixie dust attack*, 2014)] (http://archive.hack.lu/2014/Hacklu2014_offline_bruteforce_attack_on_wps.pdf)
 
 ####Tools
@@ -38,7 +36,6 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 [Reaver-wps-fork-t6x] (https://github.com/t6x/reaver-wps-fork-t6x): community edition of Reaver (which includes the Pixie Dust attack)
 
 [Bully] (https://github.com/aanarchyy/bully): new implementation of the WPS brute force attack, written in C.
-
 
 ###Online Cracking Services for PSK
 
@@ -51,6 +48,21 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 * [https://hashcrack.org/] (https://hashcrack.org/)
 
 * [Database of vulnerable Wi-Fi Network: router-db.com] (https://router-db.com/)
+
+### WPA-Enterprise
+#### Eduroam
+[MITM Attack Model against eduroam (2013)] (http://www.eduroam.zm/Maninmiddle.pdf)
+
+[A Practical Investigation of Identity Theft Vulnerabilities in Eduroam (2015)]
+ (https://www.syssec.rub.de/media/infsec/veroeffentlichungen/2015/05/07/eduroam_WiSec2015.pdf)
+
+[Server Certificate Practices in Eduroam (2015)] (http://services.geant.net/cbp/Knowledge_Base/Wireless/Documents/cbp-33_server-certificate-practices-in-eduroam.pdf): Best practice document
+
+[Evil Twin Vulnerabilities in Wi-Fi Networks (Bachelor Thesis, 2016)] (http://www.cs.ru.nl/bachelorscripties/2016/Matthias_Ghering___4395727___Evil_Twin_Vulnerabilities_in_Wi-Fi_Networks.pdf)
+
+
+
+
 
 ### Attacks
 ####KARMA
