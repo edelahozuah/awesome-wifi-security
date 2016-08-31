@@ -1,0 +1,74 @@
+A compilation of useful references about Wi-Fi Security:
+
+[1] 	J. Cache y J. Wright, Hacking Exposed Wireless: Wireless Security Secrets and Solutions, third Edition. McGraw-Hill Companies, 2015. 
+[2] 	Capturing Wireless LAN Packets in Monitor Mode with iw’, https://sandilands.info/sgordon/capturing-wifi-in-monitor-mode-with-iw
+[3] 	Enrique de la Hoz, Iván Marsá-Maestre y Bernardo Alarcos, ‘Seguridad en Redes Inalámbricas WEP’, https://issuu.com/enriquedelahoz/docs/seg_doc_wep 
+[4] 	S. Frankel, B. Eydt, L. Owens and K. Scarfone, ‘Establishing Wireless Robust Security Networks: A Guide to IEEE 802.11i’, NIST Special Publication, pp. 800-97, 2007.
+[5] 	Mathy Vanhoef , Frank Piessens, All your biases belong to us: breaking RC4 in WPA-TKIP and TLS, Proceedings of the 24th USENIX Conference on Security Symposium, p.97-112, 2015.
+[6] 	A. Popov. Prohibiting RC4 Cipher Suites. RFC 7465 (Proposed Standard). IETF, 2015.
+[7] 	N. Ferguson. Michael: an improved MIC for 802.11 WEP. IEEE 802.11 doc 02-020r0. http://grouper.ieee.org/groups/802/11/Documents/ DocumentHolder/2-020.zip. (2002)
+[8] 	M. Beck, E. Tews: Practical attacks against WEP and WPA. Cryptology ePrint Archive Report 472, 79-86 (2008)
+[9] 	Finn M. Halvorsen , Olav Haugen , Martin Eian , Stig F. Mjølsnes, An Improved Attack on TKIP, Proceedings of the 14th Nordic Conference on Secure IT Systems: Identity and Privacy in the Internet Age, October 14-16, 2009, Oslo  
+[10] 	Martin Beck. Enhanced TKIP Michael Attacks. http://download.aircrack-ng.org/wiki-files/doc/enhanced_tkip_michael.pdf
+[11] 	Nadhem J. AlFardan , Daniel J. Bernstein , Kenneth G. Paterson , Bertram Poettering , Jacob C. N. Schuldt, On the security of RC4 in TLS, Proceedings of the 22nd USENIX conference on Security, 2013.
+[12] 	Paterson, Kenneth G., Bertram Poettering and Jacob C. N. Schuldt. “Plaintext Recovery Attacks Against WPA/TKIP.” FSE (2013).
+[13] 	Vanhoef, M., Piessens, F.: Practical verification of WPA-TKIP vulnerabilities. In: Chen, K., Xie, Q., Qiu, W., Li, N., Tzeng, W.G. (eds.) ASIACCS, pp. 427–436. ACM (2013)
+[14] 	Vanhoef, M. A Security Analysis of the WPA-TKIP and TLS Security Protocols, PhD Thesis, KU Leuven, 2016
+[15] 	Tkiptun-ng. http://www.aircrack-ng.org/doku.php?id=tkiptun-ng 
+[16] 	Michael Halvorsen, Olav Haugen. Cryptanalysis of IEEE 802.11i TKIP. http://download.aircrack-ng.org/wiki-files/doc/tkip_master.pdf
+[17] 	802.11-2012 - IEEE Standard for Information technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications No. IEEE Std 802.11™-2012., 
+[18] 	Wi-Fi Alliance, ‘Technical Note Removal of TKIP from Wi-Fi® Devices’, 2015.
+[19] 	Lipmaa, H., Rogaway, P., and Wagner, D. 2000. CTR-mode encryption. In First NIST Workshop on Modes of Operation.
+[20] 	Ben Kaliski, “PKCS #5: Password-Based Cryptography Specification Version 2.0”, RFC 2898. Disponible en http://www.ietf.org/rfc/rfc2898.txt
+[21] 	Tutorial: WPA Packet Capture Explained. http://aircrack-ng.org/doku.php?id=wpa_capture
+[22] 	Tutorial: How to Crack WPA/WPA2: http://aircrack-ng.org/doku.php?id=cracking_wpa
+[23] 	Airolib-ng: http://www.aircrack-ng.org/doku.php?id=airolib-ng
+[24] 	Pyrit: https://github.com/JPaulMora/Pyrit 
+[25] 	‘Creating Wordlists With Crunch’,  https://pentestlab.wordpress.com/2012/07/12/creating-wordlists-with-crunch/ 
+[26] 	Murugiah Souppaya and Karen Scarfone . ‘Guidelines for Securing Wireless Local Area Networks (WLANs)’. NIST Special Publication 800.153 (2012)
+[27] 	Church of Wifi WPA-PSK Tables, https://www.renderlab.net/projects/WPA-tables/ , Accedido en Agosto de 2016.
+[28] 	Markus Kammerstetter, Markus Muellner, Daniel Burian, Christian Kudera, and Wolfgang Kastner. Efficient High-Speed WPA2 Brute Force Attacks using Scalable Low-Cost FPGA Clustering. Cryptographic Hardware and Embedded Systems – CHES 2016, LNCS 9813, pp.559-577, 2016.
+[29] 	Güneysu, T., Kasper, T., Novotny, M., Paar, C., Wienbrandt, L., Zimmermann, R.: High-Performance Cryptanalysis on RIVYERA and COPACOBANA Computing Systems. In: Vanderbauwhede, W., Benkrid, K. (eds.) High-Performance Computing Using FPGAs, pp. 335–366. Springer New York (2013)
+[30] 	Acrylic WiFi, ‘¿Es segura una red con WPA y WPA2?, https://www.acrylicwifi.com/blog/es-segura-red-wifi-wpa-wpa2/ , Accedido en Agosto de 2016
+[31] 	Novella, E. , Meijer, C., and Verdult, R. Scrutinizing WPA2 password generating algorithms in wireless routers. In USENIX WOOT (2015).
+[32] 	ISE, ‘Exploiting SOHO Routers’, http://www.securityevaluators.com/knowledge/case_studies/routers/soho_router_hacks.php (Accedido en Agosto de 2016)
+[33] 	Jose Antonio Rodriguez Garcia e Ivan Sanz de Castro, ‘Revisiting SOHO Routers Attacks’, DeepSec 2015, 2015.
+[34] 	Enrique de la Hoz e Iván Marsá Maestre, ‘How I became a password cracker’, https://issuu.com/enriquedelahoz/docs/seg_gp6_1516 Accedido en Agosto de 2016
+[35] 	Cracking WPA/WPA2 with oclhashcat, https://hashcat.net/wiki/doku.php?id=cracking_wpawpa2 , Accedido en Agosto de 2016
+[36] 	Exploiting masks in Hashcat for fun and profit, https://www.unix-ninja.com/p/Exploiting_masks_in_Hashcat_for_fun_and_profit , Accedido en Agosto de 2016
+[37] 	Julian Dunning, ‘Hob0Rules Released: Statistics Based Password Cracking Rules’, https://www.praetorian.com/blog/hob064-statistics-based-password-cracking-rules-hashcat-d3adhob0, Accedido en Agosto de 2016
+[38] 	‘GPU Based Password Cracking with Amazon EC2 and oclHashcat’ http://www.rockfishsec.com/2015/05/gpu-password-cracking-with-amazon-ec2.html , Accedido en Agosto de 2016
+[39] 	Crackq API, https://hashcrack.org/crackq-api Accedido en Agosto de 2016
+[40] 	Viehböck, Stefan. (2011a). Brute forcing Wi-Fi Protected Setup. Retrieved from https://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf
+[41] 	S. Aked, C. Bolan, M. Brand. “An Investigation into the Wi-Fi Protected Setup PIN of the Linksys WRT160N v2”, Proceedings of the 10th Australian Information Security Management Conference, Novotel Langley Hotel, Perth, Western Australia, 3rd-5th December, 2012
+[42] 	Dominique Bongard. Offline bruteforce attack on wifi protected setup. Presentation at Hacklu, 2014. Disponible en: http://archive.hack.lu/2014/Hacklu2014_offline_bruteforce_attack_on_wps.pdf 
+[43] 	IEEE Computer Society, "IEEE Standard 802.1x-2001, IEEE Standard for Local and Metropolitan Area Networks - Port-Based Network Access Control. June, 2001. http:// standards.ieee.org/catalog/oils/lanman.html
+[44] 	J. Wright, B. Antoniewicz, PEAP: Pwned extensible authentication protocol,  ShmooCon 2008, 200 Disponible en: http://www.willhackforsushi.com/presentations/PEAP_Shmoocon2008_Wright_Antoniewicz.pdf .
+[45] 	B. Aboba, L. Blunk, J. Vollbrecht, J. Carlson, H. Levkowetz, “Extensible authentication protocol, EAP”, in: RFC3748, 2004.
+[46] 	D. Simon, B. Aboba and R. Hurst, "The EAP-TLS Authentication Protocol", RFC 5216, 2008.
+[47] 	Sebastian Brenza, Andre Pawlowski, and Christina Pöpper. “A practical investigation of identity theft vulnerabilities in eduroam”. In Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and Mobile Networks, page 14. ACM, 2015.
+[48] 	Acrylic WiFi, Hostapd-wpe para OpenWRT Barrier Breaking, https://www.acrylicwifi.com/blog/hostapd-wpe-openwrt-barrier-breaker/ , Accedido en Agosto de 2016.
+[49] 	Acrylic WiFi, Ataques sobre infraestructuras WPA Enterprise con hostapd-WPE, https://www.acrylicwifi.com/blog/ataques-wpa-enterprise-hostapd-wpe/, Accedido en Agosto de 2016
+[50] 	Hak5, ‘The next generation rogue AP’, https://www.hak5.org/episodes/pineapple-university/the-next-gen-rogue-access-point-pineap, Accedido en Agosto de 2016
+[51] 	Van der Meulen, N. DigiNotar: Dissecting the First Dutch Digital Disaster‘, Journal of Strategic Studies, Vol. 6 (2): 46-58. 2013
+[52] 	FreeRADIUS Wiki: config/certificates, http://wiki.freeradius.org/config/Certificates , Accedido en Agosto de 2016.
+[53] 	Moxie Marlinspike, David Hulton and Marsh Ray. ‘Defeating PPTP VPNs and WPA2 Enterprise with MS-CHAPv2’, 2012. Defcon 21 [Accedido en Agosto de 2016].
+[54] 	Matthias Ghering, ‘Evil Twin Vulnerabilities in Wi-Fi Networks’, Bachelor Thesis, 2016.
+[55] 	Josh Yavor, The BYOD PEAP Show Mobile Devices Bare Auth, DEFCON 21, 2013
+[56] 	J. Wright, B. Antoniewicz, PEAP: Pwned extensible authentication protocol, Pre ShmooCon 2008, 2008.
+[57] 	Dominic White and Ian de Villiers. Manna from heaven: Improvements in Rogue AP attacks, Defcon 22, 2014.
+[58] 	Raúl Siles, "Why iOS (Android & others) Fail inexplicably", RootedCON 2013, 2013.
+[59] 	Sebastian Brenza, Andre Pawlowski, and Christina Pöpper. A practical investigation of identity theft vulnerabilities in eduroam. In Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and Mobile Networks, page 14. ACM, 2015
+[60] 	Anders Nilsson, ‘Man-in-the-middle eduroam security concerns’, GN3 Wireless Workshop, 2013.
+[61] 	T.Salmi y T. Vainio. ‘Server Certificate Practices in eduroam: best practice document’, GEANT, 2015
+[62] 	Deborah Salmi, ‘Avast free Wi-Fi experiment fools Mobile World Congress attendees’, Accedido en Agosto de 2016
+[63] 	Dino A Dai Zovi and Shane A Macaulay. Attacking automatic Wireless network selection. In Proceedings from the Sixth Annual IEEE SMC Information Assurance Workshop, pages 365–372. IEEE, 2005
+[64] 	Will Dorrmann, ‘Instant KARMA Might Still Get You’.  https://insights.sei.cmu.edu/cert/2015/08/instant-karma-might-still-get-you.html   Accedido en Agosto de 2015.
+[65] 	Ian de Villiers & Dominic White. “Manna from Heaven: Improvements in Rogue AP Attacks”,  Defcon 22 2014. Disponible en: https://www.sensepost.com/blog/2015/improvements-in-rogue-ap-attacks-mana-1-2/ 
+[66] 	Raúl Siles, ‘Why do Wi-Fi Clientes disclose their PNL for Free Still Today?’ , Disponible en: http://blog.dinosec.com/2015/02/why-do-wi-fi-clients-disclose-their-pnl.html 
+[67] 	Peter Eckersley and Jeremy Gillula. Is Your Android Device Telling the World Where You've Been? http://goo.gl/3XezqR , 2014. EFF, 2014.
+[68] 	Julien Freudiger, How talkative is your mobile device?: an experimental study of Wi-Fi probe requests, Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and Mobile Networks, June 22-26, 2015, New York, New York
+[69] 	A. B. M. Musa , Jakob Eriksson, Tracking unmodified smartphones using wi-fi monitors, Proceedings of the 10th ACM Conference on Embedded Network Sensor Systems, November 06-09, 2012, Toronto, Ontario, Canada  
+[70] 	M. Vanhoef, C. Matte, M. Cunche, L. Cardoso, and F. Piessens. Why MAC Address Randomization is not Enough: An Analysis of Wi-Fi Network Discovery Mechanisms. In ACM AsiaCCS, Xi'an, China, May 2016.
+[71] 	M. Cunche, M. A. Kaafar, and R. Boreli. I know who you will meet this evening! linking wireless devices using wi-fi probe requests. In Proceedings of the International Symposium on World of Wireless, Mobile and Multimedia Networks (WoWMoM). IEEE, 2012. 
+[72] 	Marco V. Barbera, Alessandro Epasto , Alessandro Mei , Vasile C. Perta , Julinda Stefa, Signals from the crowd: uncovering social relationships through smartphone probes, Proceedings of the 2013 conference on Internet measurement conference, October 23-25, 2013, Barcelona, Spain
