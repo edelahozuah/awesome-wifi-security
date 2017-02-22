@@ -22,6 +22,9 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 
 [A Security Analysis of the WPA-TKIP and TLS Security Protocols (PhD Thesis, 2016)] (https://lirias.kuleuven.be/bitstream/123456789/543228/1/thesis.pdf)
 
+[Predicting and Abusing WPA2/802.11 Group Keys (2016)] (http://papers.mathyvanhoef.com/33c3-broadkey-slides.pdf)
+
+
 ###WiFi Protected Setup (WPS)
 ####Papers
 [Brute forcing Wi-Fi Protected Setup (2011)] (https://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf)
