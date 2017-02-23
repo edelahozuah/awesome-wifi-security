@@ -85,6 +85,7 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 ###Wireless Routers 
 
 [Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers (WOOT, 2015)](https://www.usenix.org/system/files/conference/woot15/woot15-paper-lorente.pdf)
+[Keyspace List for WPA on Default Routers] (https://hashcat.net/forum/thread-6170.html)
 
 ###Rogue AP 
 ####Documentation
