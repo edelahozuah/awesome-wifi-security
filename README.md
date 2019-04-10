@@ -52,6 +52,9 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 
 * [Database of vulnerable Wi-Fi Network: router-db.com](https://router-db.com/)
 
+### WPA3
+[Dragonblood: A Security Analysis of WPA3’s SAE Handshake (2019)](https://wpa3.mathyvanhoef.com/)
+
 ### WPA-Enterprise
 #### Eduroam
 [MITM Attack Model against eduroam (2013)](http://www.eduroam.zm/Maninmiddle.pdf)
