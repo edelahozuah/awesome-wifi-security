@@ -102,6 +102,8 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 #### Tools
 [hostapd-mana](https://github.com/sensepost/hostapd-mana): hostapd with the attacks described in Defcon 22, and with the ability to rogue EAP access points.
 
+[Alfa Arsenal](https://github.com/ardittirana/alfa-arsenal): policy-gated Wi-Fi security auditor for authorized testing, with rogue-AP/evil-twin simulation, WPA/WPA2 handshake and PMKID capture, and WPS posture checks.
+
 ### Privacy
 #### Tracking
 [Tracking unmodified smartphones using Wi-Fi monitors (2012)](https://www.cs.uic.edu/pub/Bits/Musa/musa-eriksson-sensys12.pdf)
