@@ -102,6 +102,8 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 #### Tools
 [hostapd-mana](https://github.com/sensepost/hostapd-mana): hostapd with the attacks described in Defcon 22, and with the ability to rogue EAP access points.
 
+[sloth](https://github.com/SpaceTrucker2196/sloth): (defensive) passive C99 terminal WiFi-SIGINT monitor for Linux. Detects evil twins, KARMA/PineAP lures, rogue RADIUS (802.1X), deauth and 802.11v BTM abuse, FragAttacks, CSA abuse, and PMKID harvesting from a monitor-mode adapter without ever transmitting. JSONL/SQLite forensic log, 2,100+ tests. Source-available, free for non-commercial use.
+
 ### Privacy
 #### Tracking
 [Tracking unmodified smartphones using Wi-Fi monitors (2012)](https://www.cs.uic.edu/pub/Bits/Musa/musa-eriksson-sensys12.pdf)
