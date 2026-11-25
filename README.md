@@ -40,6 +40,11 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 
 [Bully](https://github.com/aanarchyy/bully): new implementation of the WPS brute force attack, written in C.
 
+### Android / On-Device Tools
+
+[WPAForge](https://github.com/wlmosv-png/wpaforge): Android WPA/WPA2 passphrase auditor that runs entirely on a rooted phone without an external adapter — candidates are derived from the SSID and hints, every candidate is really associated, and the verdict needs three signals on the same supplicant line. Includes WPS PIN and half-handshake attacks, offline .cap/.hc22000 verification and on-device LAN recon.
+
+
 ### Online Cracking Services for PSK
 
 * [Crackq](https://hashcrack.org/crackq): online distributed GPU-accelerated password cracker designed to help penetration testers and network auditors identify weak passwords
